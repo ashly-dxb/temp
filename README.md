@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ashly Thomas Abraham
+- 👀 I’m interested in web application development. Very passsionate in ReactJS, Redux, Javascript, PHP etc
+- 🌱 I’m currently learning python, mongodb
+- 💞️ I’m looking to collaborate on ...
+- 📫 please contact me on email: ashlythomas@gmail.com
